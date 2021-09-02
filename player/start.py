@@ -12,4 +12,4 @@ async def start(client, m: Message):
                                     ]]
                             ))
    else:
-      await m.reply("**Vc movie  is Alive! ✨**")
+      await m.reply("**Vc Video player is Alive! ✨**")
