@@ -8,8 +8,8 @@ async def start(client, m: Message):
                             reply_markup=InlineKeyboardMarkup(
                                 [[
                                      InlineKeyboardButton(
-                                            "Support", url="t.me/Athena_support")
+                                            "Support", url="t.me/my_dear_brightlight")
                                     ]]
                             ))
    else:
-      await m.reply("**Vc Video player sis Alive! ✨**")
+      await m.reply("**Vc Video player is Alive! ✨**")
