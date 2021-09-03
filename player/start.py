@@ -8,7 +8,7 @@ async def start(client, m: Message):
                             reply_markup=InlineKeyboardMarkup(
                                 [[
                                      InlineKeyboardButton(
-                                            "Support", url="t.me/my_dear_brightlight")
+                                            "Support", url="t.me/Athena_support")
                                     ]]
                             ))
    else:
